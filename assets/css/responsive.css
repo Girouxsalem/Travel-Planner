@@ -1,5 +1,5 @@
 @media (max-width: 1220px) {
-  section.card--container {
+  section.card-container {
     flex-wrap: wrap;
   }
 }
@@ -19,7 +19,7 @@
 }
 
 @media (max-width: 480px) {
-  section.card--container {
+  section.card-container {
     padding: 0 1vw
   }
   
